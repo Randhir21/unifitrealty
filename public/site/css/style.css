@@ -373,7 +373,7 @@ html {
  font-size: 34px;
     line-height: 26px;
     border-bottom: none;
-    color: #f5b034 !important;
+    color: #245799 !important;
   text-align: center;
   text-transform: uppercase;
 }
@@ -1533,7 +1533,7 @@ a {
 
 .contact-form {
   padding: 50px;
-  background: #245799;
+  background: #f5b034;
   border: 1px solid #245799;
   border-radius: 8px;
 }
@@ -1544,8 +1544,8 @@ a {
 
 .contact-form .btn-primary {
   color: #fff;
-  background-color: #f5b034;
-  border-color: #f5b034;
+  background-color: #245799;
+  border-color: #245799;
   font-size: 18px;
   padding: 9px 50px;
   border-radius: 0px !important;
