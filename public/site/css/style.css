@@ -603,8 +603,8 @@ header .navbar-expand-lg .navbar-nav .nav-item .dropdown-menu .nav-link:hover ul
 
 .btn-primary {
   color: #fff;
-  background-color: #245799;
-  border-color: ##245799;
+  background-color: #245799 !important;
+  border-color: ##245799 !important;
   border-radius: 0 !important;
   padding: 10px 0;
 }
