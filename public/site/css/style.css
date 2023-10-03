@@ -358,22 +358,22 @@ html {
 }
 
 .contact-form p {
-  font-size: 19px;
-  font-weight: 700;
-  text-align: center;
-  width: 100%;
-  margin: auto;
-  margin-bottom: 10px;
-  color: #f5b034;
-  text-transform: uppercase;
+  font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
+    color: #fff;
+    text-transform: uppercase;
 }
 
 .contact-form .frm-heading {
   font-weight: 700;
-  font-size: 26px;
-  line-height: 26px;
-  border-bottom: none;
-  color: #fff;
+ font-size: 34px;
+    line-height: 26px;
+    border-bottom: none;
+    color: #f5b034 !important;
   text-align: center;
   text-transform: uppercase;
 }
